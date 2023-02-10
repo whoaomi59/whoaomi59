@@ -27,8 +27,12 @@ Connect with me:
 <!-- LENGUAGES DE PROGRAMACION -->
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-    <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
-    <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
+    <!-- NEST -->
+    <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="./img/file_type_nest_middleware_js_icon_130363.svg" alt="android" width="40" height="40"/> </a>
+    <!-- TYPESCRIPT -->
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="./img/typescript_plain_logo_icon_146316.svg" alt="android" width="40" height="40"/> </a>
+    <!-- NODE  -->
+    <a href="https://nodejs.org/es/" target="_blank" rel="noreferrer"> <img src="./img/file_type_node_icon_130301.svg" alt="android" width="40" height="40"/> </a>
 </p>
 
 <!---
