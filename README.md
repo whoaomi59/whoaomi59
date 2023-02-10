@@ -6,6 +6,7 @@
 - 📫 How to contact me through my social networks:
     - facebook https://www.facebook.com/jhonmario.chilitocalderon/
     - Linkelin https://www.linkedin.com/in/jhon-mario-chilito-calderon-b3b41b20a/
+    - Gnail whoaomi11@gmail.com
 
 
 <!---
