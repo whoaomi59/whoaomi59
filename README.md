@@ -14,7 +14,7 @@ Connect with me:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://codepen.io/devalexanderdaza" target="blank">
-         <img align="center" src="./img/iconfinder-social-media-applications-14linkedin-4102586_113786.svgf" alt="devalexanderdaza" height="30" width="40"/>
+         <img align="center" src="./img/iconfinder-social-media-applications-14linkedin-4102586_113786.svg" alt="devalexanderdaza" height="30" width="40"/>
     </a>
 
 <a href="https://dev.to/devalexanderdaza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="devalexanderdaza" height="30" width="40" /></a>
