@@ -53,7 +53,7 @@ Connect with me:
     <!-- GIT -->
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="./img/git_plain_logo_icon_146507.svg" width="40" height="40"/></a>
     <!-- GITHUB -->
-    <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="./img/circle-github_icon-icons.com_66826.svgg" width="40" height="40"/></a>
+    <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="./img/circle-github_icon-icons.com_66826.svg" width="40" height="40"/></a>
 </p>
 
 <!---
