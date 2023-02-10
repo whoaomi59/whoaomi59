@@ -49,7 +49,11 @@ Connect with me:
     <!-- C++ -->
     <a href="https://es.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer"> <img src="./img/c_original_logo_icon_146611.svg" width="40" height="40"/></a>
     <!-- VISUAL -->
-    <a href="https://es.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer"> <img src="./img/microsoft_visual_studio_macos_bigsur_icon_189958.png" width="40" height="40"/></a>
+    <a href="https://books.google.com.co/books?id=hUJNPD8boygC&pg=PA135&lpg=PA135&dq=visual&source=bl&ots=Nn-lMOhlp6&sig=ACfU3U1u-CH6KSfOFrKjTSBlutLamznePQ&hl=es&sa=X&ved=2ahUKEwi43Yf1lYv9AhWxsDEKHfy2DdcQ6AF6BAhNEAM#v=onepage&q=visual&f=false" target="_blank" rel="noreferrer"> <img src="./img/microsoft_visual_studio_macos_bigsur_icon_189958.png" width="40" height="40"/></a>
+    <!-- GIT -->
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="./img/git_plain_logo_icon_146507.svg" width="40" height="40"/></a>
+    <!-- GITHUB -->
+    <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="./img/circle-github_icon-icons.com_66826.svgg" width="40" height="40"/></a>
 </p>
 
 <!---
