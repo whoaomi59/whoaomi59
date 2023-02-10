@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on  proyetos grandes y pequeños.
 - 🤝 I’m looking for help with Creation of massive use libraries for open source projects
 - 📫 How to contact me through my social networks:
-- facebook https://www.facebook.com/jhonmario.chilitocalderon/
-- Linkelin https://www.linkedin.com/in/jhon-mario-chilito-calderon-b3b41b20a/
+    - facebook https://www.facebook.com/jhonmario.chilitocalderon/
+    - Linkelin https://www.linkedin.com/in/jhon-mario-chilito-calderon-b3b41b20a/
 
 
 <!---
