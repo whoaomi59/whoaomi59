@@ -41,7 +41,7 @@ Connect with me:
     <!-- css -->
     <a href="https://es.reactjs.org/" target="_blank" rel="noreferrer"> <img src="./img/file_type_css_icon_130661.svg" alt="android" width="40" height="40"/></a>
     <!-- MYSQL -->
-    <a href="https://es.reactjs.org/" target="_blank" rel="noreferrer"> <img src="./img/mysqlworkbench_935321.svg" alt="android" width="40" height="40"/></a>
+    <a href="https://es.reactjs.org/" target="_blank" rel="noreferrer"> <img src="./img/mysqlworkbench_93532.svg" alt="android" width="40" height="40"/></a>
     <!-- JSON -->
     <a href="https://es.reactjs.org/" target="_blank" rel="noreferrer"> <img src="./img/applicationjson_103623.svg" alt="android" width="40" height="40"/></a>
 </p>
