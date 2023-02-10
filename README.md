@@ -1,3 +1,4 @@
+<h1 align="center">Hi 👋, I'm Jhon Mario Chilito 😎</h1>
 - 🔭 I’m currently working on Validation Ingeal S.A
 - 👀 I’m interested in aprender mas sobre desarrollo de software..
 - 🌱  I’m currently learning ReactJS,NextJS,NestJS,NodeJS,Nysql,Git,Linux,TipeORM
