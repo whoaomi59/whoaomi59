@@ -20,6 +20,9 @@ Connect with me:
     <a href="whoaomi11@gmail.com" target="blank">
          <img align="center" src="./img/gmail_new_logo_icon_159149.svg" alt="devalexanderdaza" height="30" width="40"/>
     </a>
+    <a href="https://www.facebook.com/jhonmario.chilitocalderon" target="blank">
+         <img align="center" src="./img/facebook_icon_130940.svg" alt="devalexanderdaza" height="30" width="40"/>
+    </a>
 </p> 
 
 
