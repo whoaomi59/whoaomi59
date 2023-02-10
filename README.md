@@ -8,6 +8,8 @@
     - Linkelin https://www.linkedin.com/in/jhon-mario-chilito-calderon-b3b41b20a/
     - Gnail whoaomi11@gmail.com
 - 👨‍💻 All of my projects are available at  https://whoaomi59.github.io/Portafolio_jhonma/
+
+Connect with me:
    
 
 
