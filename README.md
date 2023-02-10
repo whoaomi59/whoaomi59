@@ -5,9 +5,9 @@
 <p align="left">- 💞️ I’m looking to collaborate on  proyetos grandes y pequeños.</p>
 <p align="left">- 🤝 I’m looking for help with Creation of massive use libraries for open source projects</p>
 <p align="left">- 📫 How to contact me through my social networks:
-- facebook https://www.facebook.com/jhonmario.chilitocalderon/
-- Linkelin https://www.linkedin.com/in/jhon-mario-chilito-calderon-b3b41b20a/
-- Gnail whoaomi11@gmail.com
+<br>- facebook https://www.facebook.com/jhonmario.chilitocalderon/
+<br>- Linkelin https://www.linkedin.com/in/jhon-mario-chilito-calderon-b3b41b20a/
+<br>- Gnail whoaomi11@gmail.com
 </p>
 <p align="left">- 👨‍💻 All of my projects are available at  https://whoaomi59.github.io/Portafolio_jhonma/</p>
 
