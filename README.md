@@ -29,21 +29,27 @@ Connect with me:
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
     <!-- NEST -->
-    <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="./img/file_type_nest_middleware_js_icon_130363.svg" alt="android" width="40" height="40"/> </a>
+    <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="./img/file_type_nest_middleware_js_icon_130363.svg" width="40" height="40"/> </a>
     <!-- TYPESCRIPT -->
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="./img/typescript_plain_logo_icon_146316.svg" alt="android" width="40" height="40"/> </a>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="./img/typescript_plain_logo_icon_146316.svg" width="40" height="40"/> </a>
     <!-- NODE  -->
-    <a href="https://nodejs.org/es/" target="_blank" rel="noreferrer"> <img src="./img/file_type_node_icon_130301.svg" alt="android" width="40" height="40"/> </a>
+    <a href="https://nodejs.org/es/" target="_blank" rel="noreferrer"> <img src="./img/file_type_node_icon_130301.svg" width="40" height="40"/> </a>
     <!-- REACT JS -->
-    <a href="https://es.reactjs.org/" target="_blank" rel="noreferrer"> <img src="./img/react_icon_130845.svg" alt="android" width="40" height="40"/></a>
+    <a href="https://es.reactjs.org/" target="_blank" rel="noreferrer"> <img src="./img/react_icon_130845.svg" width="40" height="40"/></a>
     <!-- HTML -->
-    <a href="https://es.reactjs.org/" target="_blank" rel="noreferrer"> <img src="./img/file_type_html_icon_130541.svg" alt="android" width="40" height="40"/></a>
+    <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="./img/file_type_html_icon_130541.svg" width="40" height="40"/></a>
     <!-- css -->
-    <a href="https://es.reactjs.org/" target="_blank" rel="noreferrer"> <img src="./img/file_type_css_icon_130661.svg" alt="android" width="40" height="40"/></a>
+    <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="./img/file_type_css_icon_130661.svg" width="40" height="40"/></a>
     <!-- MYSQL -->
-    <a href="https://es.reactjs.org/" target="_blank" rel="noreferrer"> <img src="./img/mysqlworkbench_93532.svg" alt="android" width="40" height="40"/></a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="./img/mysqlworkbench_93532.svg"  width="40" height="40"/></a>
     <!-- JSON -->
-    <a href="https://es.reactjs.org/" target="_blank" rel="noreferrer"> <img src="./img/applicationjson_103623.svg" alt="android" width="40" height="40"/></a>
+    <a href="https://www.json.org/json-es.html" target="_blank" rel="noreferrer"> <img src="./img/applicationjson_103623.svg" width="40" height="40"/></a>
+    <!-- KOTLIN -->
+    <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> <img src="./img/file_type_kotlin_icon_130487.svg" width="40" height="40"/></a>
+    <!-- C++ -->
+    <a href="https://es.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer"> <img src="./img/c_original_logo_icon_146611.svg" width="40" height="40"/></a>
+    <!-- VISUAL -->
+    <a href="https://es.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer"> <img src="./img/microsoft_visual_studio_macos_bigsur_icon_189958.png" width="40" height="40"/></a>
 </p>
 
 <!---
