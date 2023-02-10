@@ -5,9 +5,9 @@
 <p align="left">- 💞️ I’m looking to collaborate on  proyetos grandes y pequeños.</p>
 <p align="left">- 🤝 I’m looking for help with Creation of massive use libraries for open source projects</p>
 <p align="left">- 📫 How to contact me through my social networks:
-<p align="center">- facebook https://www.facebook.com/jhonmario.chilitocalderon/</p>
-<p align="center">- Linkelin https://www.linkedin.com/in/jhon-mario-chilito-calderon-b3b41b20a/</p>
-<p align="center">- Gnail whoaomi11@gmail.com</p>
+<br>- facebook https://www.facebook.com/jhonmario.chilitocalderon/
+<br>- Linkelin https://www.linkedin.com/in/jhon-mario-chilito-calderon-b3b41b20a/
+<br>- Gmail whoaomi11@gmail.com
 </p>
 <p align="left">- 👨‍💻 All of my projects are available at  https://whoaomi59.github.io/Portafolio_jhonma/</p>
 
@@ -34,6 +34,16 @@ Connect with me:
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="./img/typescript_plain_logo_icon_146316.svg" alt="android" width="40" height="40"/> </a>
     <!-- NODE  -->
     <a href="https://nodejs.org/es/" target="_blank" rel="noreferrer"> <img src="./img/file_type_node_icon_130301.svg" alt="android" width="40" height="40"/> </a>
+    <!-- REACT JS -->
+    <a href="https://es.reactjs.org/" target="_blank" rel="noreferrer"> <img src="./img/react_icon_130845.svg" alt="android" width="40" height="40"/></a>
+    <!-- HTML -->
+    <a href="https://es.reactjs.org/" target="_blank" rel="noreferrer"> <img src="./img/file_type_html_icon_130541.svg" alt="android" width="40" height="40"/></a>
+    <!-- css -->
+    <a href="https://es.reactjs.org/" target="_blank" rel="noreferrer"> <img src="./img/file_type_css_icon_130661.svg" alt="android" width="40" height="40"/></a>
+    <!-- MYSQL -->
+    <a href="https://es.reactjs.org/" target="_blank" rel="noreferrer"> <img src="./img/mysqlworkbench_935321.svg" alt="android" width="40" height="40"/></a>
+    <!-- JSON -->
+    <a href="https://es.reactjs.org/" target="_blank" rel="noreferrer"> <img src="./img/applicationjson_103623.svg" alt="android" width="40" height="40"/></a>
 </p>
 
 <!---
