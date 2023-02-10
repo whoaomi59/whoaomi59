@@ -28,14 +28,18 @@ Connect with me:
 <!-- LENGUAGES DE PROGRAMACION -->
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
+    <!-- JS -->
+    <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="./img/file_type_js_official_icon_130509.svg" width="40" height="40"/></a>
     <!-- NEST -->
-    <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="./img/file_type_nest_middleware_js_icon_130363.svg" width="40" height="40"/> </a>
+    <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="./img/file_type_nest_middleware_js_icon_130363.svg" width="40" height="40"/></a>
     <!-- TYPESCRIPT -->
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="./img/typescript_plain_logo_icon_146316.svg" width="40" height="40"/> </a>
     <!-- NODE  -->
     <a href="https://nodejs.org/es/" target="_blank" rel="noreferrer"> <img src="./img/file_type_node_icon_130301.svg" width="40" height="40"/> </a>
     <!-- REACT JS -->
     <a href="https://es.reactjs.org/" target="_blank" rel="noreferrer"> <img src="./img/react_icon_130845.svg" width="40" height="40"/></a>
+    <!-- MATERIAL UI -->
+    <a href="https://mui.com/" target="_blank" rel="noreferrer"> <img src="./img/material_ui_icon_137419.svg" width="40" height="40"/></a>
     <!-- HTML -->
     <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="./img/file_type_html_icon_130541.svg" width="40" height="40"/></a>
     <!-- css -->
