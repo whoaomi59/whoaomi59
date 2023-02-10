@@ -6,8 +6,8 @@
 <p align="left">- 🤝 I’m looking for help with Creation of massive use libraries for open source projects</p>
 <p align="left">- 📫 How to contact me through my social networks:
 <p align="center">- facebook https://www.facebook.com/jhonmario.chilitocalderon/</p>
-<br>- Linkelin https://www.linkedin.com/in/jhon-mario-chilito-calderon-b3b41b20a/
-<br>- Gnail whoaomi11@gmail.com
+<p align="center">- Linkelin https://www.linkedin.com/in/jhon-mario-chilito-calderon-b3b41b20a/</p>
+<p align="center">- Gnail whoaomi11@gmail.com</p>
 </p>
 <p align="left">- 👨‍💻 All of my projects are available at  https://whoaomi59.github.io/Portafolio_jhonma/</p>
 
