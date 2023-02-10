@@ -1,14 +1,15 @@
 <h1 align="center">Hi 👋, I'm Jhon Mario Chilito 😎</h1>
-- 🔭 I’m currently working on Validation Ingeal S.A
-- 👀 I’m interested in aprender mas sobre desarrollo de software..
-- 🌱  I’m currently learning ReactJS,NextJS,NestJS,NodeJS,Nysql,Git,Linux,TipeORM
-- 💞️ I’m looking to collaborate on  proyetos grandes y pequeños.
-- 🤝 I’m looking for help with Creation of massive use libraries for open source projects
-- 📫 How to contact me through my social networks:
-    - facebook https://www.facebook.com/jhonmario.chilitocalderon/
-    - Linkelin https://www.linkedin.com/in/jhon-mario-chilito-calderon-b3b41b20a/
-    - Gnail whoaomi11@gmail.com
-- 👨‍💻 All of my projects are available at  https://whoaomi59.github.io/Portafolio_jhonma/
+<p align="left">- 🔭 I’m currently working on Validation Ingeal S.A</p>
+<p align="left">- 👀 I’m interested in aprender mas sobre desarrollo de software..</p>
+<p align="left">- 🌱  I’m currently learning ReactJS,NextJS,NestJS,NodeJS,Nysql,Git,Linux,TipeORM</p>
+<p align="left">- 💞️ I’m looking to collaborate on  proyetos grandes y pequeños.</p>
+<p align="left">- 🤝 I’m looking for help with Creation of massive use libraries for open source projects</p>
+<p align="left">- 📫 How to contact me through my social networks:
+- facebook https://www.facebook.com/jhonmario.chilitocalderon/
+- Linkelin https://www.linkedin.com/in/jhon-mario-chilito-calderon-b3b41b20a/
+- Gnail whoaomi11@gmail.com
+</p>
+<p align="left">- 👨‍💻 All of my projects are available at  https://whoaomi59.github.io/Portafolio_jhonma/</p>
 
 Connect with me:
 <h3 align="left">Connect with me:</h3>
